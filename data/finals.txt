@@ -1,0 +1,686 @@
+(lp0
+(lp1
+VCOMIC BOOKS
+p2
+aVIn 2002 the Library of Congress had William B. Jones, Jr. speak on this 1941-1971 comic book series in its collection
+p3
+aS'&lt;i&gt;Classic Comics'
+p4
+aa(lp5
+VWAR MOVIES
+p6
+aVA controversial 1979 war film was based on a 1902 work by this author
+p7
+aS'Joseph Conrad'
+p8
+aa(lp9
+VHISTORIC MEDIUMS
+p10
+aVIn the '20s the alleged spirit powers of Margery caused a rift between these 2 men, a magician & a writer
+p11
+aS'Harry Houdini &amp; Sir Arthur Conan Doyle'
+p12
+aa(lp13
+VPRESIDENTS
+p14
+aV2 of the 3 men who went from being either a U.S. senator or congressman directly to the presidency
+p15
+aS'(2 of) Kennedy, Garfield, and Harding'
+p16
+aa(lp17
+VPATRON SAINTS
+p18
+aVIn November 2000, Pope John Paul II proclaimed this 16th century Englishman as the patron saint of politicians
+p19
+aS'Sir Thomas More'
+p20
+aa(lp21
+VCOUNTRY NAMES
+p22
+aVA Spanish dictionary defines it as "circulo maximo que equidista de los polos de la tierra"
+p23
+aS'Ecuador'
+p24
+aa(lp25
+VALIASES
+p26
+aVNorma McCorvey recently sought a reversal to her landmark 1973 case in which she had this name
+p27
+aS'(Jane) Roe'
+p28
+aa(lp29
+VBRITISH MONARCHS
+p30
+aVBefore Victoria & Elizabeth II, this was the last British monarch to reign during 2 different centuries
+p31
+aS'George III'
+p32
+aa(lp33
+VAMERICAN AUTHORS
+p34
+aVFord Madox Ford, in the \u201820s, hadn\u2019t \u201cread more than six words\u201d by this man before vowing to \u201cpublish everything he sent me\u201d
+p35
+aS''
+p36
+aa(lp37
+VMARILYN MONROE MOVIES
+p38
+aVMarilyn plots her husband's murder at a honeymoon site in this, her only film with a 1-word title
+p39
+aS'&lt;i&gt;Niagara'
+p40
+aa(lp41
+VART SUBJECTS
+p42
+aVSeen in sculpture, Eustache de St. Pierre & 5 other wealthy men made themselves hostages to free this city
+p43
+aS"Calais (from Rodin\\'s &lt;i&gt;The Burghers of Calais"
+p44
+aa(lp45
+VFIRST LADIES
+p46
+aVShe survived the President by 39 years & was married to an archaeology professor at the time of her own death in 1947
+p47
+aS'Frances Folsom Cleveland'
+p48
+aa(lp49
+VGEOGRAPHY IN LITERATURE
+p50
+aVLeo Tolstoy's story about Hadji Murat, "who slew the Russian swine", opens in this present-day Russian republic
+p51
+aS'Chechnya'
+p52
+aa(lp53
+V20th CENTURY SHIPS
+p54
+aVThis British ship was named for a Roman province established in the area of Portugal in 27 B.C.
+p55
+aS'the &lt;i&gt;Lusitania'
+p56
+aa(lp57
+VCHILDREN'S AUTHORS
+p58
+aVAfter WWI he wrote, "To develop a horse-surgery\u2026 would necessitate a knowledge of horse language"
+p59
+aS'Hugh Lofting (author of the &lt;i&gt;Doctor Dolittle'
+p60
+aa(lp61
+VPULITZER PRIZE WINNERS
+p62
+aV1 of the 2 novels, both Southern, that won the Pulitzer for fiction & became Best Picture Oscar winners
+p63
+aS'(1 of) &lt;i&gt;Gone with the Wind'
+p64
+aa(lp65
+VPOETS
+p66
+aVA San Francisco resident since the 1950s, in 1998 he became the city's first Poet Laureate
+p67
+aS'Lawrence Ferlinghetti (owner of City Lights bookstore in San Francisco)'
+p68
+aa(lp69
+V19th CENTURY NAMES
+p70
+aVOnce known as "the handsomest man in America", he performed his last play, "The Apostate", on March 18, 1865
+p71
+aS'John Wilkes Booth'
+p72
+aa(lp73
+VACRONYMS
+p74
+aVPassed in October 2001, its full name includes "providing appropriate tools required..."
+p75
+aS'the USA PATRIOT Act'
+p76
+aa(lp77
+VAMERICANISMS
+p78
+aVAround 1900 Monroe Rosenfeld remarked that the music heard along NYC's 28th Street sounded like this
+p79
+aS'tin pans'
+p80
+aa(lp81
+VPOETS
+p82
+aVCalled the 2 most innovative 19th century American poets, one didn't read the other after being "told that he was disgraceful"
+p83
+aS'Emily Dickinson &amp; Walt Whitman'
+p84
+aa(lp85
+VAMERICANA
+p86
+aVThis Monsanto product was developed as a covering to turn asphalt lots in urban areas into playgrounds
+p87
+aS'AstroTurf'
+p88
+aa(lp89
+V2004
+p90
+aVOn Monday, December 13, 3 people designated these will meet in Cheyenne, Wyoming to help decide the world's future
+p91
+aS'electors'
+p92
+aa(lp93
+VFAMOUS NAMES
+p94
+aVThe last thing visitors see in the exhibit area of the Salem Witch Museum is a huge photo of this politician
+p95
+aS'(\\&quot;Tailgunner Joe\\&quot; Senator Joseph) McCarthy'
+p96
+aa(lp97
+VMEN OF SCIENCE
+p98
+aV"Somnium", an early work of science fiction, was written by this German & published posthumously in 1634
+p99
+aS'Johannes Kepler'
+p100
+aa(lp101
+VBROADWAY MUSICALS
+p102
+aVLegend says this musical was inspired by Lunt & Fontanne's backstage bickering during a Shakespeare play
+p103
+aS'&lt;i&gt;Kiss Me, Kate'
+p104
+aa(lp105
+VWESTERN HEMISPHERE GEOGRAPHY
+p106
+aVThe 2nd-smallest independent country in area in the Western Hemisphere; in the '80s it was invaded by the 2nd largest
+p107
+aS'Grenada'
+p108
+aa(lp109
+V1920s TRANSPORTATION
+p110
+aVLast name of the Chicago cab fleet operator who started the "Drive-Ur-Self" rental system
+p111
+aS'Hertz'
+p112
+aa(lp113
+VFAMOUS AMERICANS
+p114
+aVAfter his public comments were criticized by FDR, he resigned his Air Corps Reserve commission in April 1941
+p115
+aS'Charles Lindbergh'
+p116
+aa(lp117
+VFAMOUS PAIRS
+p118
+aVThey first teamed up in 1974; one a quiet Latin teacher & the other a former clown college student
+p119
+aS'Penn &amp; Teller'
+p120
+aa(lp121
+VFAMOUS FIRSTS
+p122
+aVIn 1876 this man became the first person not to get a busy signal on the other end of a phone line
+p123
+aS'Alexander Graham Bell'
+p124
+aa(lp125
+VU.S. GEOGRAPHY
+p126
+aVWith a common nickname that refers to its size, this is the largest island in the United States
+p127
+aS'Hawaii'
+p128
+aa(lp129
+VBIBLICAL WEIGHTS AND MEASURES
+p130
+aVAs described in the Bible, the total volume of this was 450,000 cubic cubits
+p131
+aS"Noah\\'s Ark"
+p132
+aa(lp133
+VTHE EARLY 20th CENTURY
+p134
+aVOn April 11, 1912, from a pier in Queenstown, Ireland, Francis Browne took one of the last known photos of this
+p135
+aS'the &lt;i&gt;Titanic'
+p136
+aa(lp137
+VTHE OLYMPICS
+p138
+aVThis sport that's also known as whiff-whaff & flim-flam has been an Olympic sport since 1988
+p139
+aS'table tennis (or ping pong)'
+p140
+aa(lp141
+VHISTORIC FIRSTS
+p142
+aVThe brother of this leader is believed to be the first known European to have died in the Americas
+p143
+aS'Leif Ericson'
+p144
+aa(lp145
+VAUTHORS
+p146
+aVAfter several decades off it, works by this man seen here returned to the New York Times Bestseller List in 2003
+p147
+ag36
+aa(lp148
+VPOPULATIONS
+p149
+aVWith only about 425,000 people, it's South America's least populous independent mainland country
+p150
+aS'Suriname (formerly Dutch Guiana)'
+p151
+aa(lp152
+VHISTORIC AREAS
+p153
+aVIn 1893, as it was disappearing, F.J. Turner wrote a famous essay on "The Significance of" it "in American History"
+p154
+aS'the Frontier'
+p155
+aa(lp156
+VFILMS OF THE '70s
+p157
+aV"The Babysitter Murders" was the working title for this 1978 thriller
+p158
+aS'&lt;i&gt;Halloween'
+p159
+aa(lp160
+VSEMIANNUAL PUBLICATIONS
+p161
+aVIt began in 1886 as an extension of an upper crust family's list of whose house they'd visit & who they'd receive
+p162
+aS'&lt;i&gt;The Social Register'
+p163
+aa(lp164
+VROYALTY
+p165
+aVThis king was the great-grandfather of France's King Louis XV
+p166
+aS'Louis XIV'
+p167
+aa(lp168
+VU.S. TRAVEL AND TOURISM
+p169
+aVSouvenirs sold at this attraction include 1962 World's Fair glassware & mugs boasting "I made it to the top"
+p170
+aS'the Space Needle'
+p171
+aa(lp172
+VLITERATURE
+p173
+aVIn early drafts, the heroine of this novel was named Pansy & her family home was called Fontenoy Hall
+p174
+aS'&lt;i&gt;Gone with the Wind'
+p175
+aa(lp176
+VSPORTS
+p177
+aVIts solo female winner is awarded the Venus Rosewater Dish
+p178
+aS'Wimbledon'
+p179
+aa(lp180
+VCOMPANY ORIGINS
+p181
+aVThis Fortune 100 company got its name from what it bought from sailors & sold to natural history collectors
+p182
+aS'Shell Oil'
+p183
+aa(lp184
+VTHEATRICAL PREMIERES
+p185
+aVThe "Playboy Riots" took place in this world capital in 1907 following a theatrical premiere
+p186
+ag36
+aa(lp187
+VWORLD FLAGS
+p188
+aVNever directly seen in the Northern Hemisphere, it's featured on the flags of 5 of the world's countries
+p189
+aS'the Southern Cross'
+p190
+aa(lp191
+VBRITISH NOVEL CHARACTERS
+p192
+aVW.E. Henley, the amputee who wrote the brave poem "Invictus", inspired this character in an 1883 book
+p193
+aS'Long John Silver'
+p194
+aa(lp195
+VON THE GLOBE
+p196
+aV2-word alternate name for 0 degrees longitude
+p197
+aS'Prime Meridian'
+p198
+aa(lp199
+VBEETHOVEN
+p200
+aVPoet & critic Ludwig Rellstab compared this piano work to a nighttime boat ride on Lake Lucerne
+p201
+aS'&lt;i&gt;Moonlight Sonata'
+p202
+aa(lp203
+VOCCUPATIONS
+p204
+aVWhile working as one, Charlotte Bronte complained that one of these "has no existence, is not considered as a living... being"
+p205
+aS'a governess'
+p206
+aa(lp207
+VSCIENCE NEWS
+p208
+aVIn June 2000 Bill Clinton described it as "the most wondrous map ever produced"
+p209
+aS'the human genome'
+p210
+aa(lp211
+VAMERICAN NOVELS
+p212
+aVThe image seen here is part of Faulkner's original text of this 1930 novel
+p213
+aS'&lt;i&gt;As I Lay Dying'
+p214
+aa(lp215
+VFAMOUS WOMEN
+p216
+aVIn 1952 William Rehnquist graduated first in his class at Stanford Law & she graduated third
+p217
+aS"Sandra Day O\\'Connor"
+p218
+aa(lp219
+V20th CENTURY AMERICANS
+p220
+aVAt the dedication of a fountain at Radcliffe College in 1960, she began her speech with the single word "Water"
+p221
+ag36
+aa(lp222
+VSTATE FACTS
+p223
+aVThis state & its capital were named for 2 dukedoms held by the same British man
+p224
+aS'New York '
+p225
+aa(lp226
+V20th CENTURY VICE PRESIDENTS
+p227
+aVAptly, his middle name contained the word "rich"
+p228
+aS'Nelson Aldrich Rockefeller'
+p229
+aa(lp230
+VPOLITICAL WORDS & PHRASES
+p231
+aVTeddy Roosevelt used this boxing phrase to announce his 1912 candidacy & said, "The fight is on & I'm stripped to the buff"
+p232
+aS'\\&quot;Throw a hat in the ring\\&quot;'
+p233
+aa(lp234
+V19th CENTURY U.S. HISTORY
+p235
+aVOf the 5 times Congress has declared war, the 3 during the 19th century were against these 3 nations
+p236
+aS'Britain, Spain, &amp; Mexico'
+p237
+aa(lp238
+VBABY NAMES
+p239
+aVOf the Social Security Administration's top 10 boys' names in 2000, the 2, ending in the same letter, on a list of the 12 Apostles
+p240
+aS'Matthew &amp; Andrew'
+p241
+aa(lp242
+VBUSINESS & INDUSTRY
+p243
+aVMost of this firm's 70,000 seasonal white-collar employees work only 4 months a year
+p244
+ag36
+aa(lp245
+VTHE 18th CENTURY
+p246
+aVIn 1790 the HMS Pandora sailed thousands of miles specifically to bring back this man but failed
+p247
+ag36
+aa(lp248
+VVOCABULARY
+p249
+aVThis adjective for scholars & "Jeopardy!" champs is from the Latin ex, "out or away" & rudis, "rudeness"
+p250
+aS'erudite'
+p251
+aa(lp252
+VU.S. CITIES
+p253
+aVOf the USA's 10 most populous cities, 1 of the 2 that dropped in population from 1990 to 2000
+p254
+aS'(1 of) Detroit or Philadelphia'
+p255
+aa(lp256
+VCHILDREN'S STORIES
+p257
+aVIn German, this classic story is called "Die Kleine Seejungfrau"
+p258
+aS'\\&quot;The Little Mermaid\\&quot;'
+p259
+aa(lp260
+VPLAYWRIGHTS
+p261
+aVHis 1840s romance with an older housemaid in Grimstad may have inspired his later themes of guilt & social hypocrisy
+p262
+aS'Henrik Ibsen'
+p263
+aa(lp264
+VTHE CABINET
+p265
+aVHe's been both the youngest & the oldest U.S. Secretary of Defense in history
+p266
+aS'Donald Rumsfeld'
+p267
+aa(lp268
+VRARITIES
+p269
+aVAll 6 examples of his signature known to exist date from between 1612 & 1616
+p270
+aS'William Shakespeare'
+p271
+aa(lp272
+VSTATE MOTTOES
+p273
+aV2 of the 5 states whose mottoes aren't in English or Latin
+p274
+aS'(2 of) Hawaii, Washington, Montana, Minnesota, or California'
+p275
+aa(lp276
+VBUSINESS HISTORY
+p277
+aVLast names of the 2 men, both engineers, who met & formed a partnership at England's Midland Hotel in May 1904
+p278
+aS'Rolls and Royce'
+p279
+aa(lp280
+VAWARD-WINNING AUTHORS
+p281
+aVThe only Oscar winner also to win a Nobel Prize, this European won a 1938 Oscar for adapting his own play
+p282
+ag36
+aa(lp283
+VHISTORIC MESSAGES
+p284
+aVIn 1943 he sent the famous message "Eleven alive native knows posit and reefs Nauru Island"
+p285
+aS'John Fitzgerald Kennedy'
+p286
+aa(lp287
+VHISTORIC OBJECTS
+p288
+aVMore than 600 people, 200 horses, 40 ships, Edward the Confessor & Halley's Comet are depicted on it
+p289
+aS'the Bayeux Tapestry'
+p290
+aa(lp291
+VANNUAL EVENTS
+p292
+aVA high-bounce ball inspired businessman Lamar Hunt to give an annual event this name
+p293
+ag36
+aa(lp294
+VTHE ACADEMY AWARDS
+p295
+aVLast names of the 2 famous families in which 3 generations have won Oscars
+p296
+ag36
+aa(lp297
+VDANTE'S INFERNO
+p298
+aVAt the center of Hell, Satan is devouring Brutus, Cassius & this biblical figure
+p299
+aS'Judas'
+p300
+aa(lp301
+V19th CENTURY SPEECHES
+p302
+aVAt Harvard, this writer proposed that we work 1 day & leave 6 free for the "sublime revelations of nature"
+p303
+aS'Henry David Thoreau'
+p304
+aa(lp305
+VFOOD HISTORY
+p306
+aV13th century invading Asian people who brought the idea of eating raw, chopped meat into the Germany area
+p307
+aS'the Tatars'
+p308
+aa(lp309
+VU.S. GOVERNMENT
+p310
+aVIn Spanish this agency is known as "La Migra"
+p311
+aS'Immigration &amp; Naturalization Service'
+p312
+aa(lp313
+VFAMOUS WOMEN
+p314
+aVBoth Detroit, her home now, and Montgomery, Alabama, her home in 1955, have streets named for her
+p315
+aS'Rosa Parks'
+p316
+aa(lp317
+VAUTHORS
+p318
+aVHe publicly objected to the name of a 2004 documentary for infringing on the title of one of his books
+p319
+ag36
+aa(lp320
+VTHE BIBLE
+p321
+aVThe first verse of this book says, "There was a man in the land of Uz that feared God and eschewed evil"
+p322
+aS'Job'
+p323
+aa(lp324
+VAMERICAN INDIANS
+p325
+aVThis famed Sauk Indian had both a war and a pro sports team named for him
+p326
+aS'Black Hawk'
+p327
+aa(lp328
+VPRESIDENTS
+p329
+aVThis consonant begins the last names of five presidents, more than any other letter
+p330
+aS'H'
+p331
+aa(lp332
+VIN THE NEWS 1997
+p333
+aV50 years after a famous incident, this city got a new flag, seen here, featuring a mysterious dot in the sky:
+p334
+aS'Roswell, New Mexico'
+p335
+aa(lp336
+VPSYCHOLOGY
+p337
+aVIn 1973 4 bank employees held hostage in this city ended up feeling grateful to their captors
+p338
+aS'Stockholm'
+p339
+aa(lp340
+VCOUNTRIES OF THE WORLD
+p341
+aVThis island nation is the only country in the world named for a biblical king
+p342
+aS'the Solomon Islands'
+p343
+aa(lp344
+VBODIES OF WATER
+p345
+aVThis sea that extends about 1,200 miles was referred to in ancient times as the Erythraean Sea
+p346
+aS'the Red Sea'
+p347
+aa(lp348
+VU.S. PRESIDENTS
+p349
+aV2 of the 5 presidents buried west of the Mississippi River
+p350
+aS'Eisenhower, Hoover, Lyndon Johnson, Nixon, Truman'
+p351
+aa(lp352
+V8-LETTER WORDS
+p353
+aVDiffering by one letter, the 2 words that mean job & time away from the job
+p354
+aS'vocation &amp; vacation'
+p355
+aa(lp356
+VTHE CABINET
+p357
+aVOne of two Cabinet department heads who have held their position for the entire Reagan administration thus far
+p358
+aS'(one of) Caspar Weinberger or Samuel Pierce of HUD'
+p359
+aa(lp360
+VWORLD GEOGRAPHY
+p361
+aVThis former British colony, which gained independence in 1960, is the most populous country in Africa
+p362
+aS'Nigeria'
+p363
+aa(lp364
+VISLANDS
+p365
+aVJust days after the attack on Pearl Harbor, it became the first U.S. possession occupied by the Japanese
+p366
+aS'Guam'
+p367
+aa(lp368
+VVICE PRESIDENTS
+p369
+aVHe was the first vice president to cast zero tiebreaking votes in his capacity as president of the Senate
+p370
+aS'John Tyler'
+p371
+aa(lp372
+VTHE SOLAR SYSTEM
+p373
+aVObjects that pass closer to the sun than Mercury have been named for this mythological figure
+p374
+aS'Icarus'
+p375
+aa(lp376
+VMILITARY MATTERS
+p377
+aVAccording to the CIA, this foreign country has the highest military expenditures per capita
+p378
+aS'Israel'
+p379
+aa(lp380
+VTECHNOLOGY
+p381
+aVIn 1913 this alloy was invented by Harry Brearley of Sheffield, England, a city known for its cutlery since before 1400
+p382
+aS'stainless steel'
+p383
+aa(lp384
+V1920s NOSTALGIA
+p385
+aVA poor couple window-shopping a diamond bracelet at this store inspired the song "I Can't Give You Anything But Love"
+p386
+aS"Tiffany\\'s"
+p387
+aa.
