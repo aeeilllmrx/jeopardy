@@ -30,12 +30,14 @@ def main():
     n = len(j_clues)
     a,b,c,d,game = get_vars(n)
 
+    trebek_image = randint(1, 54)
+
     context = {"j_cat" : j_cats[game][a], "j_clue" : j_clues[game][a][b][0], \
 		"j_answer" : j_clues[game][a][b][1], \
 		"dj_cat" : dj_cats[game][c], "dj_clue" : dj_clues[game][c][d][0], \
                 "dj_answer" : dj_clues[game][c][c][1], \
 		"f_cat" : finals[game][0], "f_clue" : finals[game][1], \
-		"f_answer" : finals[game][2]}  
+		"f_answer" : finals[game][2], "image" : trebek_image}  
 
     return render_template('base.html', **context )
 

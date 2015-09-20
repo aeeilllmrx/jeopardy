@@ -1,19 +1,48 @@
+
+<script type="text/javascript">
+   function toggle(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+   }
+</script>
+
 <html>
   <head>
     <title>Let's Play Jeopardy!</title>
   </head>
+  <style>
+  body {background-color:lightblue}
+  h2   {color:maroon}
+  p    {color:purple}
+  </style>
   <body>
-    <h1>Category: {{j_cat}}</h1>
+    <center>
+    <h2>Jeopardy: {{j_cat}}</h2>
     <p>Answer: {{j_clue}}</p>
-    <p>We were looking for: {{j_answer}}</p>
+    <div id="j_answer" style="display:none">{{j_answer}}</div>
+    <a href="javascript://" onclick="toggle('j_answer')">reveal</a>
 
-    <h1>Category: {{dj_cat}}</h1>
+    <h2>Double Jeopardy: {{dj_cat}}</h2>
     <p>Answer: {{dj_clue}}</p>
-    <p>We were looking for: {{dj_answer}}</p>
+    <div id="dj_answer" style="display:none">{{dj_answer}}</div>
+    <a href="javascript://" onclick="toggle('dj_answer')">reveal</a>
 
-    <h1>Category: {{f_cat}}</h1>
+    <h2>Final Jeopardy: {{f_cat}}</h2>
     <p>Answer: {{f_clue}}</p>
-    <p>We were looking for: {{f_answer}}</p>
+    <div id="f_answer" style="display:none">{{f_answer}}</div>
+    <a href="javascript://" onclick="toggle('f_answer')">reveal</a>
 
+    <p>    
+    <img src="../static/images/{{image}}.jpg" alt="trebek" height="200px">
+    </p>
+    </center>
+    <p>
+    <A href="javascript:history.go(0)">New game??</A>
+    </p>
   </body>
+
+
 </html>
