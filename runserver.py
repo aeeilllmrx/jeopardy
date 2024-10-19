@@ -1,2 +1,3 @@
-from myapp import app
+from jeopardy import app
+
 app.run(debug=True)
